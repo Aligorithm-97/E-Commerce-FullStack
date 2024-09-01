@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\e-commerce\\angular-dotnet\\server\\dotnet.csproj": {}
+    "C:\\Projects\\e-commerce\\angular-dotnet\\server\\e-commerce.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\e-commerce\\angular-dotnet\\server\\dotnet.csproj": {
+    "C:\\Projects\\e-commerce\\angular-dotnet\\server\\e-commerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\e-commerce\\angular-dotnet\\server\\dotnet.csproj",
-        "projectName": "dotnet",
-        "projectPath": "C:\\Projects\\e-commerce\\angular-dotnet\\server\\dotnet.csproj",
+        "projectUniqueName": "C:\\Projects\\e-commerce\\angular-dotnet\\server\\e-commerce.csproj",
+        "projectName": "e-commerce",
+        "projectPath": "C:\\Projects\\e-commerce\\angular-dotnet\\server\\e-commerce.csproj",
         "packagesPath": "C:\\Users\\alite\\.nuget\\packages\\",
         "outputPath": "C:\\Projects\\e-commerce\\angular-dotnet\\server\\obj\\",
         "projectStyle": "PackageReference",
@@ -40,10 +40,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("dotnet")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("e-commerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a5448eddac3df570c40edd4b71bb422d88b214c")]
-[assembly: System.Reflection.AssemblyProductAttribute("dotnet")]
-[assembly: System.Reflection.AssemblyTitleAttribute("dotnet")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9fc07637a5cf9d2c5f8f54f643ab77e08ad8b6f")]
+[assembly: System.Reflection.AssemblyProductAttribute("e-commerce")]
+[assembly: System.Reflection.AssemblyTitleAttribute("e-commerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

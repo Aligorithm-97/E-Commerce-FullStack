@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "QJzUwGArlFNgEaO8S/IcD5jJlSi+TGzhaKyVeQTzYKM=",
-  "Source": "dotnet",
-  "BasePath": "_content/dotnet",
+  "Hash": "UFTKO5MZIvFz7ELKfYpH5QX2v+ZtVFoRMFqEf0GOyoU=",
+  "Source": "e-commerce",
+  "BasePath": "_content/e-commerce",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
